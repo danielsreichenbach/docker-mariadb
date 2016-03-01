@@ -7,8 +7,10 @@ created for building projects using the [Drone][drone] continuous integration
 platform but should work in other CI environments, too.
 
 Contrary to the official [MariaDB docker image][docker-mariadb], this image is
-based on [Alpine Linux][alpine] version 3.3, and builds upon the
+based on [Alpine Linux][alpine] version 3.2 / 3.3, and builds upon the
 [Gliderlabs Alpine image][docker-gliderlabs].
+
+Tags for MariaDB 5.5 and 10.1 are available.
 
 ## What is MariaDB?
 MariaDB is a community-developed fork of the MySQL relational database management
