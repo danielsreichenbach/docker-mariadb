@@ -1,0 +1,19 @@
+# Add directories, files, and symbolic links which shall not be stored within
+# this git repository here.
+
+# Numerous always-ignore extensions
+*.diff
+*.orig
+*.rej
+*.swp
+*~
+.idea
+
+# Configuration files to be customized
+/.drone.sec.yml
+
+# Cache and log files
+
+# Generated files
+
+# Vendor libraries
