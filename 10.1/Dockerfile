@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.3
+FROM gliderlabs/alpine:3.4
 MAINTAINER Daniel S. Reichenbach <daniel@kogitoapp.com>
 
 # Provide volume directory for initalizing databases
